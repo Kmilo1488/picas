@@ -1,0 +1,43 @@
+
+body {
+	background-color: #F0F0F0;
+}
+
+.container {
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+th {
+	text-align: center;
+}
+
+
+.results {
+	max-width: 450px;
+}
+
+.modal-footer{
+  border-top: none;
+}
+
+.modal h1{
+	top: 200px;
+	left: 110px;
+	color: white;
+  font-size: 90px;
+	position: absolute;
+}
+
+.button {
+	position: absolute;
+	border: none;
+	top: 330px;
+	left: 210px;
+	color: white;
+	width: 200px;
+	height: 40px;
+  font-size: 20px;
+	background-color: #f04500;
+}
